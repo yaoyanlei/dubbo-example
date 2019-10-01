@@ -5,9 +5,9 @@
 ### 模块说明
 各模块功能说明
 
-* [provider-demo-服务提供者模块](填写GitHub地址)
-* [consumer-demo-服务消费者模块](填写GitHub地址)
-* [common-service-通用服务接口模块](填写GitHub地址)
+* [provider-demo-服务提供者模块](https://github.com/yaoyanlei/dubbo-example)
+* [consumer-demo-服务消费者模块](https://github.com/yaoyanlei/dubbo-example)
+* [common-service-通用服务接口模块](https://github.com/yaoyanlei/dubbo-example)
 
 ### 版本说明
 此实例整合是Apache官方的dubbo starts
